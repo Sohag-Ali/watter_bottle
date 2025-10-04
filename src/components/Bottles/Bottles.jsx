@@ -58,11 +58,3 @@ const Bottles = ({ bottlesPromise }) => {
 
 export default Bottles;
 
-
-echo "# watter_bottle" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Sohag-Ali/watter_bottle.git
-git push -u origin main
